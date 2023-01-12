@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rek7&theme=cobalt&layout=compact)
-![Github stats](https://github-readme-stats.vercel.app/api?username=rek7&theme=cobalt&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rek7&theme=cobalt&show_icons=true&count_private=true)
