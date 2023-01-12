@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rek7&theme=cobalt&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rek7&theme=cobalt&layout=compact)
 ![Github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rek7&theme=cobalt&show_icons=true&count_private=true)
