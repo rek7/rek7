@@ -1,7 +1,8 @@
 <div align="center">
 
-# Raphael Karger
-
+# [Raphael Karger](https://github.com/rek7)
+[![](https://img.shields.io/badge/-blog-000?style=flat-square)](https://blog.raphael.karger.is)
+[![](https://img.shields.io/badge/-linkedin-000?style=flat-square)](https://linkedin.com/in/raphael-karger)
 <br>
 
 ![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
