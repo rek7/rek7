@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Raphael Karger](https://github.com/rek7)
+# [Raphael Karger]([https://github.com/rek7](https://linkedin.com/in/raphael-karger))
 [![](https://img.shields.io/badge/-blog-000?style=flat-square)](https://blog.raphael.karger.is)
 [![](https://img.shields.io/badge/-linkedin-000?style=flat-square)](https://linkedin.com/in/raphael-karger)
 <br>
